@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Launch DevAcademia](https://img.shields.io/badge/◈%20%20LAUNCH%20DEVACADEMIA%20%20◈-10b981?style=for-the-badge&logoColor=white&labelColor=065f46)](https://github.com/Mohiuddin0035)
+[![Launch DevAcademia](https://img.shields.io/badge/◈%20%20LAUNCH%20DEVACADEMIA%20%20◈-10b981?style=for-the-badge&logoColor=white&labelColor=065f46)](https://dev-academia-live.vercel.app/)
 
 <br/>
 
